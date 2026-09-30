@@ -26,10 +26,10 @@ export function getPosts(content) {
   return posts;
 }
 
-export const postCard = (p, d = 0) => `
+export const postCard = (p, d = 0, h = 'h3') => `
 <article class="post-card reveal" data-d="${d}">
   <img src="${p.cover}" width="1077" height="976" alt="" loading="lazy">
   <time datetime="${p.iso}">${p.date}</time>
-  <h3><a href="/blog/${p.slug}/">${p.title}</a></h3>
+  <${h}><a href="/blog/${p.slug}/">${p.title}</a></${h}>
   <p>${p.excerpt}</p>
 </article>`;

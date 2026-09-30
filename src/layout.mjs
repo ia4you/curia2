@@ -125,7 +125,7 @@ function footer() {
 }
 
 const callbar = `
-<div class="callbar">
+<div class="callbar" role="region" aria-label="Llamada rápida">
   <a class="btn" href="${SITE.phoneHref}">${icon('phone')}Llamar al ${SITE.phone}</a>
 </div>`;
 

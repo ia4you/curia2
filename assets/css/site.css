@@ -371,6 +371,7 @@ a {
     gap: 0;
   }
   .nav-list a:not(.btn) {
+    display: flex;
     min-height: 52px;
     border-bottom: 1px solid var(--line);
     font-size: 1.0625rem;
@@ -771,15 +772,17 @@ a {
   font-size: 0.875rem;
   color: var(--ink-2);
 }
+.post-card h2,
 .post-card h3 {
   margin-top: 0.4rem;
   font-size: 1.5rem;
 }
+.post-card h2 a,
 .post-card h3 a {
   color: var(--ink);
   text-decoration: none;
 }
-.post-card h3 a::after {
+.post-card :is(h2, h3) a::after {
   content: "";
   position: absolute;
   inset: 0;
@@ -789,7 +792,7 @@ a {
   color: var(--ink-2);
 }
 @media (hover: hover) and (pointer: fine) {
-  .post-card:hover h3 a {
+  .post-card:hover :is(h2, h3) a {
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 0.2em;
@@ -931,8 +934,9 @@ a {
   display: none;
 }
 @media (max-width: 760px) {
-  body {
-    padding-bottom: calc(5rem + env(safe-area-inset-bottom));
+  /* La barra fija ocupa ~77 px: el relleno va en el pie (fondo oscuro) para no dejar una franja clara. */
+  .site-footer {
+    padding-bottom: calc(6.5rem + env(safe-area-inset-bottom));
   }
   .callbar {
     position: fixed;
@@ -1320,9 +1324,9 @@ a {
 }
 .consent input {
   flex: none;
-  width: 1.375rem;
-  height: 1.375rem;
-  margin: 0.15rem 0 0;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0.1rem 0 0;
   accent-color: var(--teal-text);
 }
 .consent label {

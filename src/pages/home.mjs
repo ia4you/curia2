@@ -87,7 +87,7 @@ export function pages({ content, v }) {
       <p>Gestionamos eficazmente su comunidad de propietarios: desde la administración de cuentas bancarias y cobro de cuotas, hasta la gestión de morosidad y la búsqueda de personal cualificado para el edificio.</p>
       <div class="actions"><a class="btn" href="/administradores-de-fincas/">Saber más sobre este servicio</a></div>
     </div>
-    <div class="band-mark reveal" data-d="1" aria-hidden="true">${icon('buildings')}</div>
+    <div class="band-mark" aria-hidden="true">${icon('buildings')}</div>
   </div>
 </section>
 

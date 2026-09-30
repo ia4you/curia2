@@ -131,7 +131,7 @@ ${cta()}`;
 // ---------- Blog ----------
 function blogIndex({ content, v }) {
   const b = content['/blog'].blocks;
-  const cards = getPosts(content).map((p, i) => postCard(p, i % 2)).join('');
+  const cards = getPosts(content).map((p, i) => postCard(p, i % 2, 'h2')).join('');
   const body = `
 ${pageHead({
   trail: [{ label: 'Inicio', href: '/' }, { label: 'Blog' }],
