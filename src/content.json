@@ -1,0 +1,1665 @@
+{
+ "/": {
+  "title": "Curia Abogados | Las Palmas de Gran Canaria",
+  "desc": "Despacho de abogados en Las Palmas de Gran Canaria. Más de 15 años de experiencia en derecho civil, penal, mercantil y administración de fincas.",
+  "blocks": [
+   {
+    "t": "img",
+    "src": "/images/hero-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales en el despacho de Curia Abogados"
+   },
+   {
+    "t": "p",
+    "x": "ASESORÍA LEGAL"
+   },
+   {
+    "t": "h1",
+    "x": "Despacho de abogados en Las Palmas de Gran Canaria"
+   },
+   {
+    "t": "p",
+    "x": "Nos avala la experiencia de más de 15 años ayudando a solucionar los conflictos que se originan en la vida cotidiana de las personas, con un trato cercano, honesto y profesional."
+   },
+   {
+    "t": "h2",
+    "x": "ASESORAMIENTO LEGAL RÁPIDO"
+   },
+   {
+    "t": "p",
+    "x": "Respuesta ágil ante cualquier consulta, sin esperas innecesarias."
+   },
+   {
+    "t": "h2",
+    "x": "ABOGADAS EXPERTAS"
+   },
+   {
+    "t": "p",
+    "x": "Estefanía Pérez y Saro Morales, colegiadas y especializadas en cada área."
+   },
+   {
+    "t": "h2",
+    "x": "MÁS DE 15 AÑOS DE EXPERIENCIA"
+   },
+   {
+    "t": "p",
+    "x": "Trayectoria consolidada resolviendo conflictos reales."
+   },
+   {
+    "t": "h2",
+    "x": "DERECHO CIVIL Y MERCANTIL"
+   },
+   {
+    "t": "p",
+    "x": "Divorcios, desahucios, incumplimientos contractuales y administración de fincas."
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en su despacho"
+   },
+   {
+    "t": "p",
+    "x": "SOBRE NOSOTROS"
+   },
+   {
+    "t": "h2",
+    "x": "Generamos confianza y somos meticulosas con tu caso."
+   },
+   {
+    "t": "p",
+    "x": "El despacho de Curia Abogados nace de la pasión por el Derecho de dos abogadas que deciden compartir su camino jurídico con el objetivo de ayudar a solucionar todo tipo de conflictos que se originan en la vida cotidiana de las personas."
+   },
+   {
+    "t": "p",
+    "x": "Nos avala la experiencia de más de 15 años ayudando a resolver estos conflictos, con un trato cercano, honesto y profesional en cada paso del proceso."
+   },
+   {
+    "t": "p",
+    "x": "Estefanía Pérez y Saro Morales — Socias fundadoras"
+   },
+   {
+    "t": "p",
+    "x": "15+"
+   },
+   {
+    "t": "p",
+    "x": "AÑOS DE EXPERIENCIA"
+   },
+   {
+    "t": "p",
+    "x": "2"
+   },
+   {
+    "t": "p",
+    "x": "ABOGADAS FUNDADORAS"
+   },
+   {
+    "t": "p",
+    "x": "+500"
+   },
+   {
+    "t": "p",
+    "x": "CASOS GESTIONADOS"
+   },
+   {
+    "t": "p",
+    "x": "100%"
+   },
+   {
+    "t": "p",
+    "x": "TRATO PERSONALIZADO"
+   },
+   {
+    "t": "p",
+    "x": "ESPECIALIDADES"
+   },
+   {
+    "t": "h2",
+    "x": "Nuestras áreas de práctica"
+   },
+   {
+    "t": "p",
+    "x": "Acompañamos a nuestros clientes en los conflictos legales más habituales de la vida cotidiana, con un trato cercano y directo."
+   },
+   {
+    "t": "h3",
+    "x": "Divorcio"
+   },
+   {
+    "t": "p",
+    "x": "Disolución del matrimonio, a solicitud de uno o de los dos cónyuges, con acompañamiento en cada paso del proceso."
+   },
+   {
+    "t": "h3",
+    "x": "Guarda y Custodia"
+   },
+   {
+    "t": "p",
+    "x": "Acuerdos y procesos judiciales para determinar la custodia y el régimen de visitas de los hijos menores."
+   },
+   {
+    "t": "h3",
+    "x": "Despidos"
+   },
+   {
+    "t": "p",
+    "x": "Revisión y defensa ante despidos injustificados, indemnizaciones y otras cuestiones laborales."
+   },
+   {
+    "t": "h3",
+    "x": "Robos o Hurtos"
+   },
+   {
+    "t": "p",
+    "x": "Defensa y acusación en delitos contra el patrimonio, tanto si eres víctima como si necesitas representación."
+   },
+   {
+    "t": "h3",
+    "x": "Estafas"
+   },
+   {
+    "t": "p",
+    "x": "Asesoramiento y representación si has sido víctima de un engaño con perjuicio económico."
+   },
+   {
+    "t": "h3",
+    "x": "Lesiones"
+   },
+   {
+    "t": "p",
+    "x": "Defensa de tus derechos si has sufrido un daño físico por negligencia o agresión de terceros."
+   },
+   {
+    "t": "h3",
+    "x": "Administradores de fincas"
+   },
+   {
+    "t": "p",
+    "x": "Gestionamos eficazmente su comunidad de propietarios: desde la administración de cuentas bancarias y cobro de cuotas, hasta la gestión de morosidad y la búsqueda de personal cualificado para el edificio."
+   },
+   {
+    "t": "p",
+    "x": "SOBRE NOSOTROS"
+   },
+   {
+    "t": "h2",
+    "x": "Nuestro equipo"
+   },
+   {
+    "t": "p",
+    "x": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados."
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-consulta.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en consulta con una clienta"
+   },
+   {
+    "t": "h3",
+    "x": "Atención cercana y personalizada en cada consulta"
+   },
+   {
+    "t": "p",
+    "x": "BLOG"
+   },
+   {
+    "t": "h2",
+    "x": "Últimas entradas"
+   },
+   {
+    "t": "img",
+    "src": "/uploads/1789834363229-yityjj.png",
+    "alt": "Los problemas más comunes en las comunidades de vecinos (y cómo un administrador de fincas los resuelve)"
+   },
+   {
+    "t": "p",
+    "x": "16 de septiembre de 2026"
+   },
+   {
+    "t": "h3",
+    "x": "Los problemas más comunes en las comunidades de vecinos (y cómo un administrador de fincas los resuelve)"
+   },
+   {
+    "t": "p",
+    "x": "Morosidad, conflictos vecinales, obras mal gestionadas... repasamos los problemas más frecuentes en las comunidades y por qué contar con un administrador de fincas marca la diferencia."
+   },
+   {
+    "t": "img",
+    "src": "/uploads/1789572567806-djm6xc.webp",
+    "alt": "Bienvenidos a la nueva web de Curia Abogados"
+   },
+   {
+    "t": "p",
+    "x": "16 de septiembre de 2026"
+   },
+   {
+    "t": "h3",
+    "x": "Bienvenidos a la nueva web de Curia Abogados"
+   },
+   {
+    "t": "p",
+    "x": "Estrenamos página web con un diseño renovado, más rápido y pensado para ayudarte a encontrar la información legal que necesitas con facilidad."
+   },
+   {
+    "t": "h2",
+    "x": "¿TIENES UN PROBLEMA?"
+   },
+   {
+    "t": "p",
+    "x": "Contacta con nosotros y pongámonos manos a la obra para solucionarlo."
+   }
+  ]
+ },
+ "/areas-de-derecho": {
+  "title": "Áreas de Derecho en Las Palmas de Gran Canaria | Curia Abogados",
+  "desc": "Derecho penal, laboral, civil y mercantil en un único despacho en Las Palmas de Gran Canaria. Asesoramiento y representación legal especializada.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Áreas de derecho"
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en su despacho"
+   },
+   {
+    "t": "p",
+    "x": "El Derecho regula la convivencia en sociedad y se divide en ramas especializadas. En Curia Abogados contamos con profesionales especializados en las principales áreas del derecho, para ofrecerte un servicio completo y personalizado ante cualquier problema legal que se te presente en Las Palmas de Gran Canaria."
+   },
+   {
+    "t": "h2",
+    "x": "Derecho Penal"
+   },
+   {
+    "t": "p",
+    "x": "Te asesoramos y representamos ante cualquier conducta que la ley considere delictiva, con experiencia en asesoramiento, gestión y juicios."
+   },
+   {
+    "t": "li",
+    "x": "Amenazas y coacciones"
+   },
+   {
+    "t": "li",
+    "x": "Estafas"
+   },
+   {
+    "t": "li",
+    "x": "Falsedad documental"
+   },
+   {
+    "t": "li",
+    "x": "Apropiación indebida"
+   },
+   {
+    "t": "li",
+    "x": "Impago de pensiones de alimentos"
+   },
+   {
+    "t": "li",
+    "x": "Agresiones y abusos sexuales"
+   },
+   {
+    "t": "li",
+    "x": "Acoso sexual"
+   },
+   {
+    "t": "li",
+    "x": "Lesiones"
+   },
+   {
+    "t": "li",
+    "x": "Delitos contra la propiedad intelectual e industrial"
+   },
+   {
+    "t": "li",
+    "x": "Delitos informáticos"
+   },
+   {
+    "t": "li",
+    "x": "Delitos contra la seguridad vial"
+   },
+   {
+    "t": "li",
+    "x": "Calumnias e injurias"
+   },
+   {
+    "t": "li",
+    "x": "Hurtos y robos"
+   },
+   {
+    "t": "li",
+    "x": "Allanamiento de morada y usurpación"
+   },
+   {
+    "t": "li",
+    "x": "Denuncias y querellas"
+   },
+   {
+    "t": "li",
+    "x": "Asistencia a comisaría y juzgados"
+   },
+   {
+    "t": "li",
+    "x": "Juicios rápidos y delitos leves"
+   },
+   {
+    "t": "h2",
+    "x": "Derecho Laboral"
+   },
+   {
+    "t": "p",
+    "x": "Protegemos los derechos y deberes entre empleador y trabajador, en todo tipo de conflictos laborales y prestaciones de la Seguridad Social."
+   },
+   {
+    "t": "li",
+    "x": "Despidos"
+   },
+   {
+    "t": "li",
+    "x": "Reclamaciones de cantidad"
+   },
+   {
+    "t": "li",
+    "x": "Sanciones"
+   },
+   {
+    "t": "li",
+    "x": "Modificación de condiciones de trabajo"
+   },
+   {
+    "t": "li",
+    "x": "Vacaciones"
+   },
+   {
+    "t": "li",
+    "x": "Clasificación profesional"
+   },
+   {
+    "t": "li",
+    "x": "Movilidad geográfica"
+   },
+   {
+    "t": "li",
+    "x": "Acoso laboral"
+   },
+   {
+    "t": "li",
+    "x": "Incapacidad permanente"
+   },
+   {
+    "t": "li",
+    "x": "Impugnación de alta médica"
+   },
+   {
+    "t": "li",
+    "x": "Desempleo"
+   },
+   {
+    "t": "li",
+    "x": "Jubilación"
+   },
+   {
+    "t": "li",
+    "x": "Viudedad y orfandad"
+   },
+   {
+    "t": "h2",
+    "x": "Derecho Civil"
+   },
+   {
+    "t": "p",
+    "x": "Regulamos las relaciones entre personas para proteger sus derechos y bienes: familia, herencias, contratos y procedimientos bancarios."
+   },
+   {
+    "t": "li",
+    "x": "Guarda y custodia"
+   },
+   {
+    "t": "li",
+    "x": "Divorcios y separaciones"
+   },
+   {
+    "t": "li",
+    "x": "Herencias y testamentos"
+   },
+   {
+    "t": "li",
+    "x": "Redacción de contratos"
+   },
+   {
+    "t": "li",
+    "x": "Incumplimientos contractuales"
+   },
+   {
+    "t": "li",
+    "x": "Responsabilidad civil"
+   },
+   {
+    "t": "li",
+    "x": "Desahucios"
+   },
+   {
+    "t": "li",
+    "x": "Arrendamientos"
+   },
+   {
+    "t": "li",
+    "x": "Accidentes de tráfico"
+   },
+   {
+    "t": "li",
+    "x": "Cláusulas abusivas y gastos hipotecarios"
+   },
+   {
+    "t": "li",
+    "x": "Reclamaciones de tarjetas revolving"
+   },
+   {
+    "t": "li",
+    "x": "Ejecuciones hipotecarias"
+   },
+   {
+    "t": "li",
+    "x": "Procedimientos monitorios"
+   },
+   {
+    "t": "h2",
+    "x": "Derecho Mercantil"
+   },
+   {
+    "t": "p",
+    "x": "Regulamos las actividades comerciales, contratos y actos de comercio, incluyendo concurso de acreedores y ley de segunda oportunidad."
+   },
+   {
+    "t": "li",
+    "x": "Contratos mercantiles"
+   },
+   {
+    "t": "li",
+    "x": "Concurso de acreedores"
+   },
+   {
+    "t": "li",
+    "x": "Ley de Segunda Oportunidad"
+   },
+   {
+    "t": "li",
+    "x": "Actos de comercio"
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-consulta.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en consulta con una clienta"
+   },
+   {
+    "t": "h2",
+    "x": "POR QUÉ CONTAR CON NUESTROS SERVICIOS"
+   },
+   {
+    "t": "li",
+    "x": "Asesoramiento en un área del derecho tan extensa como cambiante."
+   },
+   {
+    "t": "li",
+    "x": "Representación que evita sanciones por desconocimiento legal."
+   },
+   {
+    "t": "li",
+    "x": "Un único despacho para necesidades legales muy distintas."
+   },
+   {
+    "t": "li",
+    "x": "Defensa de tus intereses en cada proceso."
+   },
+   {
+    "t": "h2",
+    "x": "¿TIENES UN PROBLEMA?"
+   },
+   {
+    "t": "p",
+    "x": "Contacta con nosotros y pongámonos manos a la obra para solucionarlo."
+   }
+  ]
+ },
+ "/administradores-de-fincas": {
+  "title": "Administradores de Fincas en Las Palmas de Gran Canaria | Curia Abogados",
+  "desc": "Gestión integral de comunidades de propietarios en Las Palmas de Gran Canaria: contabilidad, cuotas, morosidad y asesoría jurídica en un solo despacho.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Administradores de fincas"
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-consulta.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en consulta con una clienta"
+   },
+   {
+    "t": "p",
+    "x": "Gestionar una comunidad de propietarios implica mucho más que cobrar cuotas: contabilidad, obligaciones fiscales, mantenimiento, juntas de vecinos y, en ocasiones, conflictos que requieren respaldo legal. Como despacho de abogados, en Curia Abogados unimos la administración de fincas con la asesoría jurídica, para que tu comunidad esté en manos de un único equipo que conoce tanto la gestión diaria como la ley que la regula."
+   },
+   {
+    "t": "h3",
+    "x": "Contabilidad y cuentas"
+   },
+   {
+    "t": "p",
+    "x": "Llevanza de libros contables, gestión de cuentas bancarias y control de ingresos y gastos de la comunidad."
+   },
+   {
+    "t": "h3",
+    "x": "Cuotas y morosidad"
+   },
+   {
+    "t": "p",
+    "x": "Cobro de cuotas y gestión de impagos, iniciando si es necesario los procedimientos judiciales oportunos desde el propio despacho."
+   },
+   {
+    "t": "h3",
+    "x": "Obligaciones fiscales"
+   },
+   {
+    "t": "p",
+    "x": "Nos encargamos de que tu comunidad cumpla con todas sus obligaciones fiscales en tiempo y forma."
+   },
+   {
+    "t": "h3",
+    "x": "Personal y servicios"
+   },
+   {
+    "t": "p",
+    "x": "Búsqueda de personal cualificado y gestión de los servicios que necesite el edificio, incluidas las urgencias."
+   },
+   {
+    "t": "h3",
+    "x": "Juntas de propietarios"
+   },
+   {
+    "t": "p",
+    "x": "Convocamos y organizamos las juntas ordinarias y extraordinarias, buscando la máxima participación vecinal."
+   },
+   {
+    "t": "h3",
+    "x": "Gestión documental y llaves"
+   },
+   {
+    "t": "p",
+    "x": "Custodia de llaves de la comunidad y gestión de toda la documentación administrativa."
+   },
+   {
+    "t": "h3",
+    "x": "Asesoría jurídica integrada"
+   },
+   {
+    "t": "p",
+    "x": "Al ser un despacho de abogados, resolvemos con respaldo legal cualquier incidencia o conflicto que surja en la comunidad."
+   },
+   {
+    "t": "h3",
+    "x": "Mediación de conflictos vecinales"
+   },
+   {
+    "t": "p",
+    "x": "Te ayudamos a solucionar y mediar en los conflictos entre vecinos, manteniendo el buen funcionamiento de la comunidad."
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en su despacho"
+   },
+   {
+    "t": "h2",
+    "x": "VENTAJAS DE CONTAR CON CURIA ABOGADOS PARA TU COMUNIDAD"
+   },
+   {
+    "t": "li",
+    "x": "Gestión económica y administrativa transparente y ordenada."
+   },
+   {
+    "t": "li",
+    "x": "Respaldo legal propio para cualquier conflicto vecinal o incidencia."
+   },
+   {
+    "t": "li",
+    "x": "Gestión ágil de la morosidad dentro del propio despacho."
+   },
+   {
+    "t": "li",
+    "x": "Un único equipo de confianza para toda la gestión de tu comunidad."
+   },
+   {
+    "t": "h2",
+    "x": "¿TIENES UN PROBLEMA?"
+   },
+   {
+    "t": "p",
+    "x": "Contacta con nosotros y pongámonos manos a la obra para solucionarlo."
+   }
+  ]
+ },
+ "/divorcio": {
+  "title": "Abogados de Divorcio en Las Palmas de Gran Canaria | Curia Abogados",
+  "desc": "Asesoramiento legal en divorcios de mutuo acuerdo y contenciosos en Las Palmas de Gran Canaria. Más de 15 años ayudando a familias a resolver su separación con cercanía y seguridad jurídica.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Abogados especializados en divorcio"
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en su despacho"
+   },
+   {
+    "t": "p",
+    "x": "Un divorcio implica decisiones que van a marcar tu vida durante años: la custodia y manutención de los hijos, el reparto de bienes, el futuro de la vivienda familiar. Contar con una abogada especializada en divorcios no solo te da seguridad jurídica, también te ayuda a atravesar un proceso que suele ser emocionalmente difícil, con alguien que gestiona los plazos y la documentación por ti. En Curia Abogados acompañamos a nuestros clientes en Las Palmas de Gran Canaria en cada tipo de divorcio, cuidando que el proceso sea lo más ágil y claro posible."
+   },
+   {
+    "t": "h3",
+    "x": "Divorcio de mutuo acuerdo"
+   },
+   {
+    "t": "p",
+    "x": "Cuando ambos cónyuges están de acuerdo, basta con 3 meses de matrimonio y un convenio regulador. Es el proceso más rápido y económico."
+   },
+   {
+    "t": "h3",
+    "x": "Divorcio contencioso"
+   },
+   {
+    "t": "p",
+    "x": "Sin acuerdo entre las partes, cualquier cónyuge puede solicitar el divorcio igualmente, sin alegar causa. Es el juez quien resuelve custodia y bienes."
+   },
+   {
+    "t": "h3",
+    "x": "Custodia de los hijos"
+   },
+   {
+    "t": "p",
+    "x": "Te asesoramos en todo lo relativo a la guarda, custodia y régimen de visitas, priorizando siempre el bienestar de los menores."
+   },
+   {
+    "t": "h3",
+    "x": "Reparto de bienes"
+   },
+   {
+    "t": "p",
+    "x": "Gestionamos el convenio regulador y la liquidación del patrimonio común de forma clara y justa para ambas partes."
+   },
+   {
+    "t": "h3",
+    "x": "Coordinación de plazos y documentación"
+   },
+   {
+    "t": "p",
+    "x": "Nos encargamos de preparar y presentar toda la documentación ante el juzgado, agilizando cada paso del proceso."
+   },
+   {
+    "t": "h3",
+    "x": "Acompañamiento cercano"
+   },
+   {
+    "t": "p",
+    "x": "Sabemos que es un momento emocionalmente difícil. Te acompañamos con trato honesto y cercano en cada decisión."
+   },
+   {
+    "t": "h3",
+    "x": "Defensa de tus intereses"
+   },
+   {
+    "t": "p",
+    "x": "Ya sea de mutuo acuerdo o contencioso, velamos por tus intereses y los de tus hijos en cada fase del proceso."
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-consulta.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en consulta con una clienta"
+   },
+   {
+    "t": "h2",
+    "x": "VENTAJAS DE CONTAR CON UN ABOGADO PARA TU DIVORCIO"
+   },
+   {
+    "t": "li",
+    "x": "Orientación clara sobre qué documentación necesitas y cómo prepararla."
+   },
+   {
+    "t": "li",
+    "x": "Negociación del convenio regulador velando por tus intereses y los de tus hijos."
+   },
+   {
+    "t": "li",
+    "x": "Representación en el juzgado si el proceso se convierte en contencioso."
+   },
+   {
+    "t": "li",
+    "x": "Acompañamiento cercano en un momento personal difícil."
+   },
+   {
+    "t": "h2",
+    "x": "¿TIENES UN PROBLEMA?"
+   },
+   {
+    "t": "p",
+    "x": "Contacta con nosotros y pongámonos manos a la obra para solucionarlo."
+   }
+  ]
+ },
+ "/guarda-y-custodia": {
+  "title": "Abogados de Guarda y Custodia en Las Palmas de Gran Canaria | Curia Abogados",
+  "desc": "Asesoramiento legal en custodia de hijos: individual, compartida o distribuida. Más de 15 años ayudando a familias en Las Palmas de Gran Canaria.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Abogados especializados en guarda y custodia"
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-consulta.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en consulta con una clienta"
+   },
+   {
+    "t": "p",
+    "x": "La custodia de los hijos es una de las decisiones más importantes tras la ruptura de una pareja. Cuando hay acuerdo entre ambos progenitores, el proceso suele ser sencillo; cuando no lo hay, es el juez quien debe decidir qué régimen protege mejor el bienestar de los menores. Contar con un abogado especializado en derecho de familia te ayuda a entender qué opciones existen y a defender tu relación con tus hijos durante todo el proceso."
+   },
+   {
+    "t": "h3",
+    "x": "Custodia individual"
+   },
+   {
+    "t": "p",
+    "x": "Uno de los progenitores convive con los hijos y se encarga del día a día, manteniendo el otro un régimen de visitas y comunicación."
+   },
+   {
+    "t": "h3",
+    "x": "Custodia compartida"
+   },
+   {
+    "t": "p",
+    "x": "Ambos progenitores se alternan periodos de convivencia con los hijos y comparten las decisiones sobre su cuidado."
+   },
+   {
+    "t": "h3",
+    "x": "Custodia distribuida"
+   },
+   {
+    "t": "p",
+    "x": "Cuando hay varios hijos, en casos justificados el juez puede repartir la convivencia entre ambos progenitores, cuidando siempre no separar a los hermanos."
+   },
+   {
+    "t": "h3",
+    "x": "Custodia a cargo de terceros"
+   },
+   {
+    "t": "p",
+    "x": "En situaciones excepcionales, la custodia puede atribuirse a un familiar cercano cuando el bienestar del menor lo requiere."
+   },
+   {
+    "t": "h3",
+    "x": "Régimen de visitas"
+   },
+   {
+    "t": "p",
+    "x": "Te asesoramos para establecer un régimen de visitas claro que proteja el vínculo con tus hijos."
+   },
+   {
+    "t": "h3",
+    "x": "Acompañamiento legal"
+   },
+   {
+    "t": "p",
+    "x": "Te guiamos en cada paso, desde el convenio regulador hasta la representación ante el juzgado si es necesario."
+   },
+   {
+    "t": "h3",
+    "x": "Defensa de tus derechos"
+   },
+   {
+    "t": "p",
+    "x": "Conocemos el derecho de familia y sabemos cómo presentar tu caso para proteger tu relación con tus hijos."
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en su despacho"
+   },
+   {
+    "t": "h2",
+    "x": "VENTAJAS DE CONTAR CON UN ABOGADO PARA LA CUSTODIA DE TUS HIJOS"
+   },
+   {
+    "t": "li",
+    "x": "Una propuesta de custodia adaptada a la realidad de tu familia."
+   },
+   {
+    "t": "li",
+    "x": "Asesoramiento sobre cómo comunicarte y actuar durante el proceso."
+   },
+   {
+    "t": "li",
+    "x": "Representación ante el juzgado si no hay acuerdo con la otra parte."
+   },
+   {
+    "t": "li",
+    "x": "Un acompañamiento centrado en minimizar el impacto emocional en los menores."
+   },
+   {
+    "t": "h2",
+    "x": "¿TIENES UN PROBLEMA?"
+   },
+   {
+    "t": "p",
+    "x": "Contacta con nosotros y pongámonos manos a la obra para solucionarlo."
+   }
+  ]
+ },
+ "/despidos": {
+  "title": "Abogados Laboralistas: Despidos en Las Palmas de Gran Canaria | Curia Abogados",
+  "desc": "Asesoramiento legal ante despidos disciplinarios, objetivos o colectivos. Defendemos tus derechos como trabajador en Las Palmas de Gran Canaria.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Abogados especializados en despidos"
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en su despacho"
+   },
+   {
+    "t": "p",
+    "x": "Sufrir un despido no es fácil, y no todos son justificados. Conocer el tipo de despido que has recibido y actuar dentro de los plazos legales es clave para defender tus derechos. En Curia Abogados te ayudamos a entender tu situación y a decidir los siguientes pasos con seguridad."
+   },
+   {
+    "t": "h3",
+    "x": "Despido disciplinario"
+   },
+   {
+    "t": "p",
+    "x": "Se produce cuando la empresa alega un incumplimiento grave por parte del trabajador. Es importante revisar si está bien justificado."
+   },
+   {
+    "t": "h3",
+    "x": "Despido objetivo"
+   },
+   {
+    "t": "p",
+    "x": "Motivado por causas económicas, técnicas o de organización de la empresa, con derecho a preaviso o indemnización según el caso."
+   },
+   {
+    "t": "h3",
+    "x": "Despido colectivo (ERE)"
+   },
+   {
+    "t": "p",
+    "x": "Afecta a varios trabajadores de la empresa y sigue un procedimiento específico que conviene revisar con detalle."
+   },
+   {
+    "t": "h3",
+    "x": "Revisión del finiquito"
+   },
+   {
+    "t": "p",
+    "x": "Comprobamos que la indemnización y el finiquito recibidos correspondan realmente a lo que te corresponde."
+   },
+   {
+    "t": "h3",
+    "x": "Plazos para reclamar"
+   },
+   {
+    "t": "p",
+    "x": "Los plazos para impugnar un despido son limitados. Te ayudamos a actuar a tiempo, sin firmar nada de forma precipitada."
+   },
+   {
+    "t": "h3",
+    "x": "Representación ante el SMAC"
+   },
+   {
+    "t": "p",
+    "x": "Te acompañamos en el proceso de mediación y conciliación previo a la vía judicial."
+   },
+   {
+    "t": "h3",
+    "x": "Defensa de tus derechos laborales"
+   },
+   {
+    "t": "p",
+    "x": "Analizamos tu caso y te representamos para conseguir el mejor resultado posible."
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-consulta.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en consulta con una clienta"
+   },
+   {
+    "t": "h2",
+    "x": "VENTAJAS DE CONTAR CON UN ABOGADO PARA TU DESPIDO"
+   },
+   {
+    "t": "li",
+    "x": "Revisión de la carta de despido y de la indemnización ofrecida."
+   },
+   {
+    "t": "li",
+    "x": "Asesoramiento sobre los plazos para impugnar el despido."
+   },
+   {
+    "t": "li",
+    "x": "Negociación con la empresa cuando existe margen para un acuerdo."
+   },
+   {
+    "t": "li",
+    "x": "Representación en la vía judicial si es necesario."
+   },
+   {
+    "t": "h2",
+    "x": "¿TIENES UN PROBLEMA?"
+   },
+   {
+    "t": "p",
+    "x": "Contacta con nosotros y pongámonos manos a la obra para solucionarlo."
+   }
+  ]
+ },
+ "/robos-o-hurtos": {
+  "title": "Abogados Penalistas: Robos y Hurtos en Las Palmas de Gran Canaria | Curia Abogados",
+  "desc": "Defensa legal en casos de robo y hurto. Te orientamos sobre tus derechos como víctima o acusado en Las Palmas de Gran Canaria.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Abogados especializados en robos y hurtos"
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-consulta.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en consulta con una clienta"
+   },
+   {
+    "t": "p",
+    "x": "Robo y hurto no son lo mismo ante la ley: la diferencia está en si hubo fuerza o intimidación. Sea cual sea tu situación, contar con asesoramiento legal desde el primer momento es clave para proteger tus derechos, tanto si has sido víctima como si te enfrentas a una acusación."
+   },
+   {
+    "t": "h3",
+    "x": "Qué es un robo"
+   },
+   {
+    "t": "p",
+    "x": "Implica el uso de fuerza o intimidación para apoderarse de algo ajeno. Las consecuencias legales dependen de las circunstancias de cada caso."
+   },
+   {
+    "t": "h3",
+    "x": "Qué es un hurto"
+   },
+   {
+    "t": "p",
+    "x": "A diferencia del robo, no implica fuerza ni intimidación, aunque sigue siendo un delito contra la propiedad."
+   },
+   {
+    "t": "h3",
+    "x": "Si has sido víctima"
+   },
+   {
+    "t": "p",
+    "x": "Te ayudamos a interponer la denuncia correctamente y a reunir las pruebas necesarias para tu caso."
+   },
+   {
+    "t": "h3",
+    "x": "Si te enfrentas a una acusación"
+   },
+   {
+    "t": "p",
+    "x": "Analizamos tu situación y preparamos tu defensa desde el primer momento."
+   },
+   {
+    "t": "h3",
+    "x": "Asistencia en comisaría y juzgado"
+   },
+   {
+    "t": "p",
+    "x": "Te acompañamos en cada trámite, desde la denuncia hasta el juicio si llega a producirse."
+   },
+   {
+    "t": "h3",
+    "x": "Valoración de pruebas"
+   },
+   {
+    "t": "p",
+    "x": "Revisamos qué pruebas son relevantes y cómo presentarlas de forma efectiva ante el juez."
+   },
+   {
+    "t": "h3",
+    "x": "Defensa de tus intereses"
+   },
+   {
+    "t": "p",
+    "x": "Ya seas víctima o parte acusada, velamos por que se respeten tus derechos en todo el proceso."
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en su despacho"
+   },
+   {
+    "t": "h2",
+    "x": "VENTAJAS DE CONTAR CON UN ABOGADO EN CASOS DE ROBO O HURTO"
+   },
+   {
+    "t": "li",
+    "x": "Ayuda para presentar la denuncia con toda la información necesaria."
+   },
+   {
+    "t": "li",
+    "x": "Asesoramiento sobre qué pruebas conviene reunir y conservar."
+   },
+   {
+    "t": "li",
+    "x": "Representación como acusación particular o como defensa, según tu situación."
+   },
+   {
+    "t": "li",
+    "x": "Acompañamiento durante todo el procedimiento penal."
+   },
+   {
+    "t": "h2",
+    "x": "¿TIENES UN PROBLEMA?"
+   },
+   {
+    "t": "p",
+    "x": "Contacta con nosotros y pongámonos manos a la obra para solucionarlo."
+   }
+  ]
+ },
+ "/estafas": {
+  "title": "Abogados Penalistas: Estafas en Las Palmas de Gran Canaria | Curia Abogados",
+  "desc": "Asesoramiento legal en casos de estafa y apropiación indebida. Te ayudamos a defender tus derechos en Las Palmas de Gran Canaria.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Abogados especializados en estafas"
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en su despacho"
+   },
+   {
+    "t": "p",
+    "x": "Una estafa se produce cuando alguien te engaña para que actúes en tu propio perjuicio o el de un tercero. Es uno de los delitos más habituales, y puede presentarse de muchas formas: desde un engaño tradicional hasta un fraude informático o comercial. En Curia Abogados te ayudamos a entender tu situación y a actuar con seguridad."
+   },
+   {
+    "t": "h3",
+    "x": "Estafas comunes"
+   },
+   {
+    "t": "p",
+    "x": "Basadas en el engaño directo para conseguir que la víctima actúe en su propio perjuicio."
+   },
+   {
+    "t": "h3",
+    "x": "Estafas informáticas"
+   },
+   {
+    "t": "p",
+    "x": "Cada vez más frecuentes, implican el uso de medios digitales para acceder a fondos sin consentimiento."
+   },
+   {
+    "t": "h3",
+    "x": "Estafas comerciales"
+   },
+   {
+    "t": "p",
+    "x": "Se dan cuando un vendedor engaña sobre las características reales de un producto o servicio."
+   },
+   {
+    "t": "h3",
+    "x": "Estafas con medios de pago"
+   },
+   {
+    "t": "p",
+    "x": "El uso indebido de tarjetas u otros medios de pago ajenos también constituye una estafa."
+   },
+   {
+    "t": "h3",
+    "x": "Cómo actuar si has sido estafado"
+   },
+   {
+    "t": "p",
+    "x": "Te ayudamos a reunir pruebas y a interponer la denuncia correspondiente cuanto antes."
+   },
+   {
+    "t": "h3",
+    "x": "Valoración de tu caso"
+   },
+   {
+    "t": "p",
+    "x": "Cada estafa es distinta; analizamos las circunstancias concretas de la tuya para orientarte correctamente."
+   },
+   {
+    "t": "h3",
+    "x": "Defensa de tus derechos"
+   },
+   {
+    "t": "p",
+    "x": "Te representamos para intentar recuperar lo perdido y que el responsable asuma sus consecuencias legales."
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-consulta.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en consulta con una clienta"
+   },
+   {
+    "t": "h2",
+    "x": "VENTAJAS DE CONTAR CON UN ABOGADO SI HAS SUFRIDO UNA ESTAFA"
+   },
+   {
+    "t": "li",
+    "x": "Valoración inicial de si los hechos pueden constituir un delito de estafa."
+   },
+   {
+    "t": "li",
+    "x": "Asesoramiento sobre qué pruebas y documentación reunir."
+   },
+   {
+    "t": "li",
+    "x": "Representación como acusación particular durante el procedimiento."
+   },
+   {
+    "t": "li",
+    "x": "Acompañamiento cercano durante todo el proceso."
+   },
+   {
+    "t": "h2",
+    "x": "¿TIENES UN PROBLEMA?"
+   },
+   {
+    "t": "p",
+    "x": "Contacta con nosotros y pongámonos manos a la obra para solucionarlo."
+   }
+  ]
+ },
+ "/lesiones": {
+  "title": "Abogados en Casos de Lesiones en Las Palmas de Gran Canaria | Curia Abogados",
+  "desc": "Defendemos tus derechos si has sufrido lesiones por acción de un tercero. Asesoramiento legal en Las Palmas de Gran Canaria.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Abogados especializados en lesiones"
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-consulta.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en consulta con una clienta"
+   },
+   {
+    "t": "p",
+    "x": "Sufrir una lesión causada por otra persona, ya sea de forma intencionada o por imprudencia, afecta tu salud y tu día a día. La ley protege tu derecho a la integridad física, y contar con asesoramiento legal te ayuda a que el responsable asuma las consecuencias y a que recibas la compensación que te corresponde."
+   },
+   {
+    "t": "h3",
+    "x": "Lesiones intencionadas"
+   },
+   {
+    "t": "p",
+    "x": "Cuando el daño ha sido causado de forma deliberada por un tercero."
+   },
+   {
+    "t": "h3",
+    "x": "Lesiones por imprudencia"
+   },
+   {
+    "t": "p",
+    "x": "Se dan cuando el daño no fue intencionado pero sí resultado de un comportamiento negligente, por ejemplo en accidentes de tráfico."
+   },
+   {
+    "t": "h3",
+    "x": "Asistencia médica y pruebas"
+   },
+   {
+    "t": "p",
+    "x": "Te orientamos sobre cómo documentar correctamente tus lesiones para respaldar tu caso."
+   },
+   {
+    "t": "h3",
+    "x": "Reclamación de indemnización"
+   },
+   {
+    "t": "p",
+    "x": "Te ayudamos a reclamar la compensación que te corresponde por el daño sufrido."
+   },
+   {
+    "t": "h3",
+    "x": "Representación ante el juzgado"
+   },
+   {
+    "t": "p",
+    "x": "Te acompañamos en todo el proceso legal, defendiendo tus derechos en cada fase."
+   },
+   {
+    "t": "h3",
+    "x": "Valoración de tu caso"
+   },
+   {
+    "t": "p",
+    "x": "Analizamos las circunstancias concretas de tu situación para orientarte con claridad."
+   },
+   {
+    "t": "h3",
+    "x": "Defensa de tus intereses"
+   },
+   {
+    "t": "p",
+    "x": "Trabajamos para que el responsable de tus lesiones asuma las consecuencias legales que le correspondan."
+   },
+   {
+    "t": "img",
+    "src": "/images/equipo-oficina.webp",
+    "alt": "Estefanía Pérez y Saro Morales, socias fundadoras de Curia Abogados, en su despacho"
+   },
+   {
+    "t": "h2",
+    "x": "VENTAJAS DE CONTAR CON UN ABOGADO SI HAS SUFRIDO LESIONES"
+   },
+   {
+    "t": "li",
+    "x": "Asesoramiento sobre qué informes y pruebas médicas conservar."
+   },
+   {
+    "t": "li",
+    "x": "Valoración de tu situación desde una perspectiva legal clara."
+   },
+   {
+    "t": "li",
+    "x": "Representación ante el juzgado para defender tus derechos."
+   },
+   {
+    "t": "li",
+    "x": "Acompañamiento durante todo tu proceso de recuperación legal."
+   },
+   {
+    "t": "h2",
+    "x": "¿TIENES UN PROBLEMA?"
+   },
+   {
+    "t": "p",
+    "x": "Contacta con nosotros y pongámonos manos a la obra para solucionarlo."
+   }
+  ]
+ },
+ "/blog": {
+  "title": "Blog | Curia Abogados",
+  "desc": "Artículos y actualidad legal del despacho Curia Abogados en Las Palmas de Gran Canaria.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Blog"
+   },
+   {
+    "t": "p",
+    "x": "Actualidad y análisis legal de Curia Abogados."
+   },
+   {
+    "t": "img",
+    "src": "/uploads/1789834363229-yityjj.png",
+    "alt": "Los problemas más comunes en las comunidades de vecinos (y cómo un administrador de fincas los resuelve)"
+   },
+   {
+    "t": "p",
+    "x": "16 de septiembre de 2026"
+   },
+   {
+    "t": "h2",
+    "x": "Los problemas más comunes en las comunidades de vecinos (y cómo un administrador de fincas los resuelve)"
+   },
+   {
+    "t": "p",
+    "x": "Morosidad, conflictos vecinales, obras mal gestionadas... repasamos los problemas más frecuentes en las comunidades y por qué contar con un administrador de fincas marca la diferencia."
+   },
+   {
+    "t": "img",
+    "src": "/uploads/1789572567806-djm6xc.webp",
+    "alt": "Bienvenidos a la nueva web de Curia Abogados"
+   },
+   {
+    "t": "p",
+    "x": "16 de septiembre de 2026"
+   },
+   {
+    "t": "h2",
+    "x": "Bienvenidos a la nueva web de Curia Abogados"
+   },
+   {
+    "t": "p",
+    "x": "Estrenamos página web con un diseño renovado, más rápido y pensado para ayudarte a encontrar la información legal que necesitas con facilidad."
+   }
+  ]
+ },
+ "/contacto": {
+  "title": "Contacto | Curia Abogados",
+  "desc": "Ponte en contacto con Curia Abogados en Las Palmas de Gran Canaria: teléfono, email, dirección y formulario de contacto.",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "CONTACTO"
+   },
+   {
+    "t": "h2",
+    "x": "Contacta con nosotros"
+   },
+   {
+    "t": "p",
+    "x": "Nos avala la experiencia de más de 15 años ayudando a solucionar los conflictos que se originan en la vida cotidiana de las personas, con un trato cercano, honesto y profesional."
+   },
+   {
+    "t": "p",
+    "x": "C/ León y Castillo 39, 5B\nLas Palmas de Gran Canaria"
+   }
+  ]
+ },
+ "/blog/los-problemas-mas-comunes-en-las-comunidades-de-vecinos-y-como-un-administrador-de-fincas-los-resuelve": {
+  "title": "Los problemas más comunes en las comunidades de vecinos (y cómo un administrador de fincas los resuelve) | Curia Abogados",
+  "desc": "Morosidad, conflictos vecinales, obras mal gestionadas... repasamos los problemas más frecuentes en las comunidades y por qué contar con un administrador de fincas marca la diferencia.",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "16 de septiembre de 2026"
+   },
+   {
+    "t": "h1",
+    "x": "Los problemas más comunes en las comunidades de vecinos (y cómo un administrador de fincas los resuelve)"
+   },
+   {
+    "t": "img",
+    "src": "/uploads/1789834363229-yityjj.png",
+    "alt": "Los problemas más comunes en las comunidades de vecinos (y cómo un administrador de fincas los resuelve)"
+   },
+   {
+    "t": "body",
+    "x": "Vivir en comunidad tiene muchas ventajas, pero también trae consigo una serie de retos que, si no se gestionan bien, pueden convertirse en fuente constante de conflictos. En Curia Abogados, como administradores de fincas, vemos a diario los mismos problemas repetirse en comunidades de todo tipo. Te contamos cuáles son los más habituales y cómo se pueden resolver.\n\nLa morosidad, el problema número uno\n\nCuando uno o varios propietarios dejan de pagar sus cuotas, el resto de la comunidad acaba asumiendo esos gastos de forma indirecta, lo que genera tensión y desconfianza. Un administrador de fincas se encarga de hacer seguimiento de los impagos, reclamar las cuotas pendientes y, si es necesario, iniciar los procedimientos judiciales oportunos para que la situación no se alargue indefinidamente.\n\nConflictos entre vecinos\n\nRuidos, uso indebido de zonas comunes, obras no autorizadas... los roces entre vecinos son casi inevitables cuando conviven muchas personas en un mismo edificio. Contar con un administrador que actúe como mediador imparcial ayuda a resolver estos conflictos antes de que escalen, manteniendo el buen ambiente en la comunidad.\n\nMantenimiento y contratación de servicios\n\nEncontrar personal cualificado para el mantenimiento del edificio, gestionar las urgencias que puedan surgir o coordinar reformas no es tarea sencilla. Un administrador de fincas cuenta con la experiencia y los contactos necesarios para resolver estas cuestiones de forma ágil, ahorrando tiempo y quebraderos de cabeza a los propietarios.\n\nJuntas de vecinos poco participativas\n\nMuchas comunidades tienen dificultades para conseguir que los propietarios asistan a las juntas o se impliquen en las decisiones importantes. Una buena convocatoria, bien organizada y con los temas claros desde el principio, ayuda a mejorar la participación y a que las decisiones se tomen de forma más ágil y representativa.\n\nDesconocimiento de las obligaciones legales\n\nLa normativa que regula las comunidades de propietarios cambia y tiene matices que no siempre son fáciles de seguir. Al ser un despacho de abogados, en Curia Abogados unimos la gestión administrativa diaria con el respaldo legal necesario para que tu comunidad esté siempre al día con sus obligaciones.\n\nSi tu comunidad de propietarios está pasando por alguno de estos problemas, o simplemente quieres despreocuparte de la gestión diaria, en Curia Abogados podemos ayudarte. Contáctanos y te contamos cómo podemos hacerlo."
+   }
+  ]
+ },
+ "/blog/bienvenidos-a-la-nueva-web-de-curia-abogados": {
+  "title": "Bienvenidos a la nueva web de Curia Abogados | Curia Abogados",
+  "desc": "Estrenamos página web con un diseño renovado, más rápido y pensado para ayudarte a encontrar la información legal que necesitas con facilidad.",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "16 de septiembre de 2026"
+   },
+   {
+    "t": "h1",
+    "x": "Bienvenidos a la nueva web de Curia Abogados"
+   },
+   {
+    "t": "img",
+    "src": "/uploads/1789572567806-djm6xc.webp",
+    "alt": "Bienvenidos a la nueva web de Curia Abogados"
+   },
+   {
+    "t": "body",
+    "x": "Desde Curia Abogados queremos darte la bienvenida a nuestra nueva página web. Después de más de 15 años acompañando a nuestros clientes en Las Palmas de Gran Canaria, hemos renovado por completo nuestra presencia online para que sea más clara, rápida y útil para ti.\n\nEn esta web encontrarás información detallada sobre nuestras áreas de especialización: divorcio, guarda y custodia, despidos, robos o hurtos, estafas, lesiones, y también sobre nuestro servicio de administración de fincas. Cada apartado está pensado para ayudarte a entender tu situación antes incluso de contactarnos.\n\nSeguimos siendo el mismo despacho de siempre: Estefanía Pérez y Saro Morales, con el mismo trato cercano, honesto y profesional que nos ha acompañado desde el principio. Lo único que cambia es la forma en que puedes acceder a nuestra información y contactarnos.\n\nA partir de ahora, también iremos compartiendo en este espacio artículos útiles sobre las dudas legales más habituales que nos plantean nuestros clientes, para ayudarte a entender mejor tus derechos y opciones.\n\nSi tienes cualquier consulta, no dudes en contactarnos a través del formulario de la web o llamándonos directamente. Estamos aquí para ayudarte."
+   }
+  ]
+ },
+ "/aviso-legal": {
+  "title": "Aviso Legal | Curia Abogados",
+  "desc": "Aviso legal de Curia Abogados: datos identificativos del titular del sitio web, condiciones de uso y propiedad intelectual.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Aviso Legal"
+   },
+   {
+    "t": "p",
+    "x": "Última actualización: 14 de septiembre de 2026"
+   },
+   {
+    "t": "h2",
+    "x": "1. Datos identificativos"
+   },
+   {
+    "t": "p",
+    "x": "En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE), se informa de los siguientes datos: el titular de este sitio web es Curia Abogados, con domicilio en C/ León y Castillo 39, 5B, Las Palmas de Gran Canaria. Puede contactar con nosotros a través del correo electrónico info@curiaabogados.es o de los teléfonos 928 248 581 / 679 721 167."
+   },
+   {
+    "t": "h2",
+    "x": "2. Objeto"
+   },
+   {
+    "t": "p",
+    "x": "Este sitio web tiene como finalidad ofrecer información sobre los servicios profesionales de Curia Abogados y facilitar el contacto con el despacho. El acceso y uso del sitio web atribuye la condición de usuario e implica la aceptación de las condiciones recogidas en este aviso legal."
+   },
+   {
+    "t": "h2",
+    "x": "3. Condiciones de uso"
+   },
+   {
+    "t": "p",
+    "x": "El usuario se compromete a hacer un uso adecuado del sitio web y de los contenidos que en él se ofrecen, de conformidad con la ley, la moral, el orden público y las presentes condiciones, absteniéndose de utilizarlo de forma que pueda impedir, dañar o deteriorar el normal funcionamiento del sitio, los bienes o derechos de Curia Abogados, de sus proveedores, de otros usuarios o de terceros."
+   },
+   {
+    "t": "p",
+    "x": "La información facilitada a través de los formularios del sitio web debe ser veraz y actualizada. El usuario es responsable de la veracidad de los datos que proporcione."
+   },
+   {
+    "t": "h2",
+    "x": "4. Propiedad intelectual e industrial"
+   },
+   {
+    "t": "p",
+    "x": "Curia Abogados es titular de todos los derechos de propiedad intelectual e industrial de este sitio web, así como de los elementos contenidos en el mismo (textos, imágenes, marcas, logotipos, combinaciones de colores, estructura y diseño), salvo que se indique lo contrario. Queda prohibida la reproducción, distribución o comunicación pública de la totalidad o parte de los contenidos de este sitio web con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de Curia Abogados."
+   },
+   {
+    "t": "h2",
+    "x": "5. Enlaces a terceros"
+   },
+   {
+    "t": "p",
+    "x": "Este sitio web puede contener enlaces a otros sitios web de terceros. Curia Abogados no se hace responsable del contenido de dichos sitios ni ejerce ningún tipo de control sobre ellos, ni garantiza su disponibilidad técnica, exactitud o legalidad."
+   },
+   {
+    "t": "h2",
+    "x": "6. Modificaciones"
+   },
+   {
+    "t": "p",
+    "x": "Curia Abogados se reserva el derecho a realizar, sin previo aviso, las modificaciones que considere oportunas en el contenido y estructura del sitio web."
+   },
+   {
+    "t": "h2",
+    "x": "7. Legislación aplicable"
+   },
+   {
+    "t": "p",
+    "x": "Las presentes condiciones se rigen por la legislación española. Para la resolución de cualquier controversia derivada del acceso o uso de este sitio web, las partes se someterán a los juzgados y tribunales que correspondan conforme a derecho."
+   }
+  ]
+ },
+ "/politica-de-privacidad": {
+  "title": "Política de Privacidad | Curia Abogados",
+  "desc": "Política de privacidad de Curia Abogados: cómo tratamos tus datos personales conforme al RGPD y la LOPDGDD, y cómo ejercer tus derechos.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Política de Privacidad"
+   },
+   {
+    "t": "p",
+    "x": "Última actualización: 14 de septiembre de 2026"
+   },
+   {
+    "t": "h2",
+    "x": "1. Responsable del tratamiento"
+   },
+   {
+    "t": "p",
+    "x": "El responsable del tratamiento de los datos personales recogidos a través de este sitio web es Curia Abogados, con domicilio en C/ León y Castillo 39, 5B, Las Palmas de Gran Canaria. Puede contactar con nosotros en info@curiaabogados.es para cualquier cuestión relacionada con la protección de sus datos."
+   },
+   {
+    "t": "h2",
+    "x": "2. Finalidad del tratamiento"
+   },
+   {
+    "t": "p",
+    "x": "Los datos que nos facilita a través del formulario de contacto se utilizan exclusivamente para gestionar su consulta y, en su caso, prestarle los servicios legales solicitados. No utilizamos sus datos para ninguna otra finalidad sin su consentimiento expreso."
+   },
+   {
+    "t": "h2",
+    "x": "3. Legitimación"
+   },
+   {
+    "t": "p",
+    "x": "La base legal para el tratamiento de sus datos es el consentimiento que nos otorga al enviar sus datos a través de nuestros formularios, así como, en su caso, la ejecución de la relación profesional que se establezca entre usted y el despacho."
+   },
+   {
+    "t": "h2",
+    "x": "4. Conservación de los datos"
+   },
+   {
+    "t": "p",
+    "x": "Sus datos se conservarán durante el tiempo necesario para atender su consulta o, si se formaliza una relación profesional, durante el tiempo que esta se mantenga y conforme a los plazos de conservación exigidos por la normativa aplicable."
+   },
+   {
+    "t": "h2",
+    "x": "5. Destinatarios"
+   },
+   {
+    "t": "p",
+    "x": "No cedemos sus datos personales a terceros, salvo obligación legal o cuando sea estrictamente necesario para la prestación del servicio solicitado."
+   },
+   {
+    "t": "h2",
+    "x": "6. Sus derechos"
+   },
+   {
+    "t": "p",
+    "x": "De conformidad con el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), usted puede ejercer en cualquier momento sus derechos de acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición, dirigiéndose por escrito a info@curiaabogados.es o a la dirección postal indicada más arriba, adjuntando copia de un documento que acredite su identidad."
+   },
+   {
+    "t": "h2",
+    "x": "7. Seguridad de los datos"
+   },
+   {
+    "t": "p",
+    "x": "Curia Abogados adopta las medidas técnicas y organizativas razonables para proteger sus datos personales frente a accesos no autorizados, pérdida o alteración, de acuerdo con la normativa vigente en materia de protección de datos."
+   }
+  ]
+ },
+ "/cookies": {
+  "title": "Política de Cookies | Curia Abogados",
+  "desc": "Política de cookies de Curia Abogados: qué cookies utiliza este sitio web y cómo puedes gestionarlas desde tu navegador.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Política de Cookies"
+   },
+   {
+    "t": "p",
+    "x": "Última actualización: 14 de septiembre de 2026"
+   },
+   {
+    "t": "h2",
+    "x": "1. Qué son las cookies"
+   },
+   {
+    "t": "p",
+    "x": "Las cookies son pequeños archivos de texto que un sitio web almacena en el navegador del usuario para recordar información sobre su visita, como sus preferencias o el correcto funcionamiento de ciertas partes de la página."
+   },
+   {
+    "t": "h2",
+    "x": "2. Cookies utilizadas en este sitio web"
+   },
+   {
+    "t": "p",
+    "x": "Este sitio web utiliza únicamente cookies técnicas o necesarias para su funcionamiento básico. Actualmente no empleamos cookies de analítica, personalización o publicidad de terceros. Si en el futuro incorporamos herramientas de analítica u otros servicios que requieran cookies adicionales, actualizaremos esta política y solicitaremos su consentimiento cuando sea necesario."
+   },
+   {
+    "t": "h2",
+    "x": "3. Cómo gestionar las cookies"
+   },
+   {
+    "t": "p",
+    "x": "Puede permitir, bloquear o eliminar las cookies instaladas en su equipo mediante la configuración de las opciones de privacidad de su navegador. Tenga en cuenta que deshabilitar determinadas cookies puede afectar al correcto funcionamiento de algunas partes del sitio web."
+   },
+   {
+    "t": "h2",
+    "x": "4. Cambios en esta política"
+   },
+   {
+    "t": "p",
+    "x": "Curia Abogados podrá modificar esta política de cookies para adaptarla a futuros cambios en el sitio web o a nuevas exigencias legales. Le recomendamos revisar esta página periódicamente."
+   }
+  ]
+ },
+ "/terminos-y-condiciones": {
+  "title": "Términos y Condiciones | Curia Abogados",
+  "desc": "Términos y condiciones de uso del sitio web de Curia Abogados en Las Palmas de Gran Canaria.",
+  "blocks": [
+   {
+    "t": "h1",
+    "x": "Términos y Condiciones"
+   },
+   {
+    "t": "p",
+    "x": "Última actualización: 14 de septiembre de 2026"
+   },
+   {
+    "t": "h2",
+    "x": "1. Aceptación de las condiciones"
+   },
+   {
+    "t": "p",
+    "x": "El acceso y la utilización de este sitio web atribuyen la condición de usuario e implican la aceptación plena de los términos y condiciones aquí recogidos. Si no está de acuerdo con ellos, le rogamos que no utilice este sitio web."
+   },
+   {
+    "t": "h2",
+    "x": "2. Objeto del sitio web"
+   },
+   {
+    "t": "p",
+    "x": "Este sitio web tiene carácter informativo y tiene como finalidad dar a conocer los servicios de Curia Abogados y facilitar el contacto con el despacho. La información contenida en el sitio web no constituye asesoramiento legal y no sustituye la consulta directa con nuestro equipo profesional."
+   },
+   {
+    "t": "h2",
+    "x": "3. Condiciones de uso"
+   },
+   {
+    "t": "p",
+    "x": "El usuario se compromete a utilizar el sitio web y sus contenidos conforme a la ley y a estas condiciones, y a facilitar información veraz en los formularios de contacto que se pongan a su disposición."
+   },
+   {
+    "t": "h2",
+    "x": "4. Propiedad intelectual"
+   },
+   {
+    "t": "p",
+    "x": "Todos los contenidos de este sitio web (textos, imágenes, marcas, logotipos, diseño y código fuente) son propiedad de Curia Abogados o se utilizan con la correspondiente autorización, y están protegidos por la normativa de propiedad intelectual e industrial aplicable. Queda prohibida su reproducción, distribución o modificación con fines comerciales sin autorización previa."
+   },
+   {
+    "t": "h2",
+    "x": "5. Exclusión de responsabilidad"
+   },
+   {
+    "t": "p",
+    "x": "Curia Abogados no garantiza la disponibilidad continuada del sitio web ni la ausencia de errores en sus contenidos, y no se hace responsable de los daños que pudieran derivarse del uso del sitio web o de la imposibilidad de acceder a él."
+   },
+   {
+    "t": "h2",
+    "x": "6. Modificación de las condiciones"
+   },
+   {
+    "t": "p",
+    "x": "Curia Abogados podrá modificar en cualquier momento estos términos y condiciones. Las modificaciones serán publicadas en esta misma página."
+   },
+   {
+    "t": "h2",
+    "x": "7. Legislación aplicable"
+   },
+   {
+    "t": "p",
+    "x": "Estas condiciones se rigen por la legislación española. Cualquier controversia derivada del acceso o uso de este sitio web se someterá a los juzgados y tribunales competentes conforme a derecho."
+   }
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "curia2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "contrast": "node scripts/contrast.mjs"
+  }
+}

@@ -1,0 +1,11 @@
+#!/bin/sh
+# Genera dist/ y aborta el commit si dist/ no coincide con lo que se va a confirmar.
+# Activar una vez por clon: git config core.hooksPath scripts/hooks
+set -e
+cd "$(git rev-parse --show-toplevel)"
+node src/build.mjs
+if [ -n "$(git status --porcelain -- dist | grep -v '^[ADM]  ' || true)" ]; then
+  echo "dist/ no está actualizado en el índice. Ejecuta: git add dist" >&2
+  git status --short -- dist | head >&2
+  exit 1
+fi
