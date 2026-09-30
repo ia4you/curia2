@@ -1,2 +1,7 @@
 node_modules/
 .playwright-mcp/
+.agents/
+.claude/
+skills-lock.json
+.env
+.env.*
