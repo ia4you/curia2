@@ -431,7 +431,7 @@ a {
 }
 .hero-grid {
   display: grid;
-  grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+  grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr);
   gap: clamp(2rem, 5vw, 4.5rem);
   align-items: center;
 }
@@ -444,7 +444,7 @@ a {
   color: var(--ink-2);
 }
 .hero h1 {
-  font-size: clamp(2.25rem, 4.3vw, 3.5rem);
+  font-size: clamp(2.125rem, 4vw, 3rem);
 }
 .hero .lead {
   margin-top: 1.5rem;
@@ -712,25 +712,34 @@ a {
   }
 }
 
-/* ---------- Equipo: imagen ancha ---------- */
-.team-figure {
+/* ---------- Equipo ---------- */
+.split.split-rev {
+  grid-template-columns: minmax(0, 6fr) minmax(0, 5fr);
+}
+@media (max-width: 860px) {
+  .split.split-rev {
+    grid-template-columns: 1fr;
+  }
+}
+.split figure {
   margin: 0;
 }
-.team-figure img {
-  width: 100%;
-  aspect-ratio: 21 / 9;
-  object-fit: cover;
-  object-position: 50% 35%;
-  border-radius: var(--r);
-}
-.team-figure figcaption {
+.split figcaption {
   margin-top: 1rem;
   color: var(--ink-2);
+  font-size: 0.9375rem;
 }
-@media (max-width: 700px) {
-  .team-figure img {
-    aspect-ratio: 4 / 3;
-  }
+.split .team-lead {
+  color: var(--ink-2);
+}
+.split .quote {
+  margin-top: 2rem;
+  padding-left: 1.25rem;
+  border-left: 3px solid var(--teal);
+  font-family: var(--serif);
+  font-size: clamp(1.375rem, 2.2vw, 1.75rem);
+  line-height: 1.3;
+  color: var(--ink);
 }
 
 /* ---------- Blog ---------- */
