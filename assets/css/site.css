@@ -1156,7 +1156,7 @@ a {
   margin-top: 1rem;
 }
 .article-cover {
-  margin-top: 2rem;
+  margin: 2rem 0 0;
   max-width: 52rem;
 }
 .article-cover img {
@@ -1379,4 +1379,16 @@ a {
     transition-duration: 1ms !important;
     animation: none !important;
   }
+}
+
+/* Listas de los textos legales */
+.prose ul.plain {
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+.prose ul.plain li {
+  margin-top: 0.35rem;
+}
+.post-date.meta {
+  margin: 0 0 0.75rem;
 }
