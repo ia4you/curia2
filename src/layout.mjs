@@ -41,6 +41,20 @@ export const esc = (s) =>
 export const icon = (name, cls = '') =>
   `<svg class="icon${cls ? ' ' + cls : ''}" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#${name}"></use></svg>`;
 
+// Titular palabra a palabra (cada una sube desde una máscara). parts: [{ t: 'texto', em?: true }]
+export function words(parts) {
+  let n = 0;
+  return parts
+    .map((part) => {
+      const inner = part.t
+        .split(' ')
+        .map((w) => `<span class="w" data-d="${Math.min(++n, 12)}"><span>${esc(w)}</span></span>`)
+        .join(' ');
+      return part.em ? `<em>${inner}</em>` : inner;
+    })
+    .join(' ');
+}
+
 export const cta = () => `
 <section class="cta on-teal" aria-labelledby="cta-title">
   <div class="wrap cta-grid">
@@ -48,7 +62,10 @@ export const cta = () => `
       <h2 id="cta-title">¿Tienes un problema?</h2>
       <p>Contacta con nosotros y pongámonos manos a la obra para solucionarlo.</p>
     </div>
-    <a class="btn btn-ink reveal" href="/contacto/">Consulta online</a>
+    <div class="cta-side reveal" data-d="1">
+      <a class="btn btn-ink" href="/contacto/">Consulta online</a>
+      <a class="big-phone" href="${SITE.phoneHref}">${icon('phone')}${SITE.phone}</a>
+    </div>
   </div>
 </section>`;
 

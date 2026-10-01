@@ -37,7 +37,8 @@ if (items.length) {
     const observer = new IntersectionObserver(
       (entries) => {
         for (const entry of entries) {
-          if (!entry.isIntersecting) continue;
+          // También se muestran los que ya quedaron por encima (salto a un ancla o scroll muy rápido).
+          if (!entry.isIntersecting && entry.boundingClientRect.top >= 0) continue;
           entry.target.classList.add("is-visible");
           observer.unobserve(entry.target);
         }

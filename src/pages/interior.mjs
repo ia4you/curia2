@@ -24,16 +24,18 @@ const crumbs = (items) =>
     .map((i, n) => (n === items.length - 1 ? `<li aria-current="page">${esc(i.label)}</li>` : `<li><a href="${i.href}">${esc(i.label)}</a></li>`))
     .join('')}</ol></nav>`;
 
-function pageHead({ trail, title, lead, image }) {
+// Cabecera de página interior: bloque verde profundo. image => foto vertical en arco; compact => titulares largos.
+export function pageHead({ trail, title, lead, image, kicker = '', compact = false }) {
   const media = image
-    ? `<div class="media" data-in data-d="2"><img src="${image}" width="1077" height="976" alt="${ALT[image]}" fetchpriority="high"></div>`
+    ? `<div class="arch" data-in data-d="2"><img src="${image}" width="1077" height="976" alt="${ALT[image]}" fetchpriority="high"></div>`
     : '';
   return `
-<section class="page-head" aria-labelledby="page-title">
+<section class="page-head deep on-deep${compact ? ' compact' : ''}" aria-labelledby="page-title">
   <div class="wrap">
     ${crumbs(trail)}
     <div class="page-head-grid${image ? '' : ' no-media'}">
       <div>
+        ${kicker}
         <h1 id="page-title" data-in>${esc(title)}</h1>
         ${lead ? `<p class="lead" data-in data-d="1">${esc(lead)}</p>` : ''}
       </div>
@@ -46,7 +48,7 @@ function pageHead({ trail, title, lead, image }) {
 const benefits = ({ title, items, image }) => `
 <section class="section section-paper" aria-labelledby="benefits-title">
   <div class="wrap benefits">
-    <div class="media reveal"><img src="${image}" width="1077" height="976" alt="${ALT[image]}" loading="lazy"></div>
+    <figure class="media reveal"><img src="${image}" width="1077" height="976" alt="${ALT[image]}" loading="lazy"></figure>
     <div class="reveal" data-d="1">
       <h2 id="benefits-title">${esc(sentence(title))}</h2>
       <ul class="checks">${items.map((i) => `<li>${esc(i)}</li>`).join('')}</ul>
@@ -76,7 +78,7 @@ ${pageHead({
 <section class="section" aria-label="Servicios">
   <div class="wrap">
     <ul class="defs">${defs
-      .map((d, i) => `<li class="reveal" data-d="${i % 2}"><h2>${esc(d.h)}</h2><p>${esc(d.p)}</p></li>`)
+      .map((d) => `<li class="reveal"><h2>${esc(d.h)}</h2><p>${esc(d.p)}</p></li>`)
       .join('')}</ul>
   </div>
 </section>
@@ -156,29 +158,31 @@ function postPage({ content, v, post }) {
     })
     .join('\n');
   const body = `
-<article class="section article-head" aria-labelledby="post-title">
+${pageHead({
+  trail: [{ label: 'Inicio', href: '/' }, { label: 'Blog', href: '/blog/' }, { label: 'Entrada' }],
+  title: post.title,
+  kicker: `<time class="post-date" datetime="${post.iso}">${post.date}</time>`,
+  compact: true,
+})}
+<article class="section" aria-labelledby="page-title">
   <div class="wrap">
-    ${crumbs([{ label: 'Inicio', href: '/' }, { label: 'Blog', href: '/blog/' }, { label: 'Entrada' }])}
-    <div class="prose">
-      <time class="post-date meta" datetime="${post.iso}">${post.date}</time>
-      <h1 id="post-title">${esc(post.title)}</h1>
-    </div>
     <figure class="article-cover"><img src="${post.cover}" width="1077" height="976" alt="" fetchpriority="high"></figure>
     <div class="prose">${html}</div>
   </div>
-</article>`.replace('', '');
+</article>`;
   return { path: `${path}/`, html: shell({ title: content[path].title, desc: content[path].desc, body, v, current: 'blog' }) };
 }
 
 // ---------- Textos legales (copia literal, con la fecha del original) ----------
 function legalPage({ content, v, path }) {
   const b = content[path].blocks;
+  const h1 = b.find((x) => x.t === 'h1').x;
+  const updated = b.find((x) => x.t === 'p' && x.x.startsWith('Última actualización')).x;
   let out = '';
   for (let i = 0; i < b.length; i++) {
     const x = b[i];
-    if (x.t === 'h1') out += `<h1 id="page-title">${esc(x.x)}</h1>`;
-    else if (x.t === 'h2') out += `<h2>${esc(x.x)}</h2>`;
-    else if (x.t === 'p') out += `<p${x.x.startsWith('Última actualización') ? ' class="meta"' : ''}>${linkify(x.x)}</p>`;
+    if (x.t === 'h2') out += `<h2>${esc(x.x)}</h2>`;
+    else if (x.t === 'p' && x.x !== updated) out += `<p>${linkify(x.x)}</p>`;
     else if (x.t === 'li') {
       if (b[i - 1].t !== 'li') out += '<ul class="plain">';
       out += `<li>${linkify(x.x)}</li>`;
@@ -186,12 +190,10 @@ function legalPage({ content, v, path }) {
     }
   }
   const body = `
-<section class="section" aria-labelledby="page-title">
-  <div class="wrap">
-    ${crumbs([{ label: 'Inicio', href: '/' }, { label: b.find((x) => x.t === 'h1').x }])}
-    <div class="prose">${out}</div>
-  </div>
-</section>`;
+${pageHead({ trail: [{ label: 'Inicio', href: '/' }, { label: h1 }], title: h1, lead: updated, compact: true })}
+<div class="section">
+  <div class="wrap"><div class="prose">${out}</div></div>
+</div>`;
   return { path: `${path}/`, html: shell({ title: content[path].title, desc: content[path].desc, body, v }) };
 }
 

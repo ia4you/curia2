@@ -2,7 +2,7 @@ import { shell } from '../layout.mjs';
 
 export function pages({ v }) {
   const body = `
-<section class="section notfound">
+<section class="section notfound deep on-deep">
   <div class="wrap">
     <h1 data-in>Página no encontrada</h1>
     <p data-in data-d="1">La dirección que buscas no existe o ha cambiado. Puedes volver a la portada o escribirnos y te ayudamos.</p>

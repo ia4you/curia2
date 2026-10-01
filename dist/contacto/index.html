@@ -12,8 +12,8 @@
 <link rel="preload" href="/assets/fonts/fraunces.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/public-sans.woff2" as="font" type="font/woff2" crossorigin>
 
-<link rel="stylesheet" href="/assets/css/site.css?v=50f6d8fe">
-<script src="/assets/js/init.js?v=50f6d8fe"></script>
+<link rel="stylesheet" href="/assets/css/site.css?v=6d57d71c">
+<script src="/assets/js/init.js?v=6d57d71c"></script>
 </head>
 <body>
 <a class="skip-link" href="#contenido">Saltar al contenido</a>
@@ -36,25 +36,34 @@
 </header>
 <main id="contenido">
 
-<section class="section" aria-labelledby="page-title">
+
+<section class="page-head deep on-deep" aria-labelledby="page-title">
   <div class="wrap">
     <nav aria-label="Migas de pan"><ol class="crumbs"><li><a href="/">Inicio</a></li><li aria-current="page">Contacto</li></ol></nav>
-    <div class="contact-grid">
-      <div class="contact-info">
+    <div class="page-head-grid no-media">
+      <div>
+        
         <h1 id="page-title" data-in>Contacta con nosotros</h1>
         <p class="lead" data-in data-d="1">Nos avala la experiencia de más de 15 años ayudando a solucionar los conflictos que se originan en la vida cotidiana de las personas, con un trato cercano, honesto y profesional.</p>
-        <ul class="contact-list" data-in data-d="2">
-          <li><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#phone"></use></svg><a href="tel:+34928248581">928 248 581</a></li>
-          <li><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#phone"></use></svg><a href="tel:+34679721167">679 721 167</a></li>
-          <li><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#envelope-simple"></use></svg><a href="mailto:info@curiaabogados.es">info@curiaabogados.es</a></li>
-          <li><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#map-pin"></use></svg><address>C/ León y Castillo 39, 5B<br>Las Palmas de Gran Canaria</address></li>
-        </ul>
-        <div class="socials" data-in data-d="3"><a href="https://www.facebook.com/Curia-Abogados-104618574853391" target="_blank" rel="noopener noreferrer" aria-label="Facebook (se abre en una pestaña nueva)"><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#facebook-logo"></use></svg></a><a href="https://www.linkedin.com/company/74266128/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn (se abre en una pestaña nueva)"><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#linkedin-logo"></use></svg></a><a href="https://www.instagram.com/curiaabogados/" target="_blank" rel="noopener noreferrer" aria-label="Instagram (se abre en una pestaña nueva)"><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#instagram-logo"></use></svg></a></div>
       </div>
-      <div data-in data-d="2">
-        <contact-form></contact-form>
-        <noscript><p class="notice">El formulario necesita JavaScript. Llámanos al <a href="tel:+34928248581">928 248 581</a> o escribe a <a href="mailto:info@curiaabogados.es">info@curiaabogados.es</a>.</p></noscript>
-      </div>
+      
+    </div>
+  </div>
+</section>
+<section class="section" aria-label="Datos y formulario de contacto">
+  <div class="wrap contact-grid">
+    <div class="contact-info reveal">
+      <ul class="contact-list">
+        <li><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#phone"></use></svg><a href="tel:+34928248581">928 248 581</a></li>
+        <li><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#phone"></use></svg><a href="tel:+34679721167">679 721 167</a></li>
+        <li><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#envelope-simple"></use></svg><a href="mailto:info@curiaabogados.es">info@curiaabogados.es</a></li>
+        <li><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#map-pin"></use></svg><address>C/ León y Castillo 39, 5B<br>Las Palmas de Gran Canaria</address></li>
+      </ul>
+      <div class="socials"><a href="https://www.facebook.com/Curia-Abogados-104618574853391" target="_blank" rel="noopener noreferrer" aria-label="Facebook (se abre en una pestaña nueva)"><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#facebook-logo"></use></svg></a><a href="https://www.linkedin.com/company/74266128/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn (se abre en una pestaña nueva)"><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#linkedin-logo"></use></svg></a><a href="https://www.instagram.com/curiaabogados/" target="_blank" rel="noopener noreferrer" aria-label="Instagram (se abre en una pestaña nueva)"><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#instagram-logo"></use></svg></a></div>
+    </div>
+    <div class="reveal" data-d="1">
+      <contact-form></contact-form>
+      <noscript><p class="notice">El formulario necesita JavaScript. Llámanos al <a href="tel:+34928248581">928 248 581</a> o escribe a <a href="mailto:info@curiaabogados.es">info@curiaabogados.es</a>.</p></noscript>
     </div>
   </div>
 </section>
@@ -100,7 +109,7 @@
 <div class="callbar" role="region" aria-label="Llamada rápida">
   <a class="btn" href="tel:+34928248581"><svg class="icon" aria-hidden="true" focusable="false"><use href="/assets/icons.svg#phone"></use></svg>Llamar al 928 248 581</a>
 </div>
-<script src="/assets/js/site.js?v=50f6d8fe" type="module"></script>
-<script src="/assets/js/contact-form.js?v=50f6d8fe" type="module"></script>
+<script src="/assets/js/site.js?v=6d57d71c" type="module"></script>
+<script src="/assets/js/contact-form.js?v=6d57d71c" type="module"></script>
 </body>
 </html>
